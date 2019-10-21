@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{BB4DE43B-88EC-74A7-2B27-6D8276102CC3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/battleagent2.cs">
+    <Files>
+      <File FileName="Assets/Scripts/battleacademy.cs" Line="20" Column="27" />
+      <File FileName="Assets/Scripts/battleagent.cs" />
+      <File FileName="Assets/Scripts/Ball.cs" />
+      <File FileName="Assets/Scripts/GlobalSettings.cs" />
+      <File FileName="Assets/Scripts/MovingPrimitive.cs" />
+      <File FileName="Assets/Scripts/Player.cs" />
+      <File FileName="Assets/Scripts/Primitive.cs" />
+      <File FileName="Assets/Scripts/IController.cs" />
+      <File FileName="Assets/Scripts/AI.cs" />
+      <File FileName="Assets/Scripts/Food.cs" />
+      <File FileName="Assets/planesettings.cs" />
+      <File FileName="Assets/ML-Agents/Scripts/Agent.cs" />
+      <File FileName="Assets/ML-Agents/Examples/SharedAssets/Scripts/RayPerception3D.cs" />
+      <File FileName="Assets/Scripts/GameManager.cs" />
+      <File FileName="Assets/Scripts/battleagent2.cs" Line="173" Column="41" />
+      <File FileName="Assets/Scripts/battleacademy2.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e291e829-871e-41dc-bfca-d9fbfbd19e0d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

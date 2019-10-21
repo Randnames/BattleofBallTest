@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: b52b5f9c4b4434678857c064a1188720
+ScriptedImporter:
+  fileIDToRecycleName:
+    11400000: Assets/battleofball22.nn
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 83221ad3db87f4b3b91b041047cb2bc5, type: 3}
